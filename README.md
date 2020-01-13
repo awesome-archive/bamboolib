@@ -1,14 +1,22 @@
-# bamboolib - stop googling pandas commands
+# Community repository of bamboolib - a GUI for pandas
+[![](https://img.shields.io/badge/python-3.6-blue.svg)](https://bamboolib.com) [![](https://img.shields.io/badge/python-3.7-orange.svg)](https://bamboolib.com)
 
-bamboolib is a graphical user interface for pandas dataframes in Jupyter Notebook or Jupyter Lab.
-
-## [Join our mailing list if you want to get updates on the status of bamboolib](http://eepurl.com/gyy52D)
+This is the community repository of [bamboolib](https://bamboolib.8080labs.com/). There are no source files because bamboolib is closed source. However, you can [use bamboolib for free on Open Data](https://bamboolib.8080labs.com/get-started). If you have any issues or feature requests, please open an issue.
 
 
-The main benefits of bamboolib are:
-- you can manipulate your pandas df via a user interface within your Jupyter Notebook
-- you get immediate feedback on all your data transformations
-- you can stop googling for pandas commands
-- you can export the Python pandas code of your manipulations
+## Main features and benefits of bamboolib
 
-### [Watch the preview video](https://youtu.be/yM-j5bY6cHw)
+- Learn and use pandas without coding
+- 10x faster Data Visualization and Exploration
+- Export the pandas code for reproducibility
+
+__[Try the live demo](https://bamboolib.com/demo)__
+
+## bamboolib tutorial
+
+For a nice bamboolib tutorial, read this [Medium article](https://towardsdatascience.com/bamboolib-learn-and-use-pandas-without-coding-23a7d3a94e1b).
+
+## Further links
+
+- [Official Website](https://bamboolib.8080labs.com/)
+- [Get Started with bamboolib](https://bamboolib.8080labs.com/get-started)
